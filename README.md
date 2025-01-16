@@ -101,9 +101,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
   </a>
-  <a href="https://web.dev/rtc/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" alt="WebRTC" width="40" height="40" />
-  </a>
+  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40" />
   </a>
@@ -111,7 +109,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshghode2002&layout=compact&theme=radical" alt="ganeshghode2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshghode2002&show_icons=true&locale=en&theme=radical" alt="ganeshghode2002" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshghode2002&theme=radical" alt="ganeshghode2002" /></p>
 
