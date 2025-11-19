@@ -67,7 +67,7 @@
 
 # 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ganeshghode2002&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ganeshghode2002&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -106,6 +106,7 @@ Full-stack app with authentication, recruiter dashboard, job posting.
 ---
 
 ### ❤️ If you like my work, consider giving a star ⭐ to my repos!
+
 
 
 
