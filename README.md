@@ -67,22 +67,16 @@
 
 # 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ganeshghode2002&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ganeshghode2002&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
 ---
-
-# 🏆 GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=ganeshghode2002&theme=onedark&no-bg=true&margin-w=15" />
-<img src="https://github-profile-trophy.vercel.app/?username=ganeshghode2002&theme=flat&no-bg=true&no-frame=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=ganeshghode2002&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" />
-
 ---
 
 # 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshghode2002&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com/?user=ganeshghode2002&theme=tokyonight" />
 </p>
 
 
@@ -106,6 +100,7 @@ Full-stack app with authentication, recruiter dashboard, job posting.
 ---
 
 ### ❤️ If you like my work, consider giving a star ⭐ to my repos!
+
 
 
 
