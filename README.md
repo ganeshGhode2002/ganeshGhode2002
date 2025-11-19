@@ -54,9 +54,9 @@
 </p>
 
 <!-- Fallback: static image hosted in this repo (never breaks) -->
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/streak-fallback.svg" alt="GitHub Streak (fallback)" />
-</p>
+</p> -->
 ---
 
 # 📈 Contribution Graph (reliable fallback)
@@ -90,6 +90,7 @@ Full-stack app with authentication, recruiter dashboard, job posting.
 > “Always building. Always learning. Always improving.”
 
 ---
+
 
 
 
