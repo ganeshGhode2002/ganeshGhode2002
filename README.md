@@ -4,7 +4,7 @@
 <img align="right" width="400" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" alt="coding">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ganeshghode2002&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshghode2002" />
+  <img src="C:\Users\Amol\OneDrive\Documents\my-photo.jpg" alt="ganeshghode2002" />
 </p>
 
 - 💬 Ask me about **JavaScript, React.js, Next.js, WebRTC, etc**
@@ -105,6 +105,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshghode2002&theme=radical" alt="ganeshghode2002" /></p>
+
 
 
 
