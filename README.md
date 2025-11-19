@@ -85,9 +85,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshghode2002&theme=tokyo-night" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ganeshghode2002/ganeshghode2002/output/snake.svg" alt="snake animation" />
-</p>
+
 
 ---
 
@@ -109,6 +107,7 @@ Full-stack app with authentication, recruiter dashboard, job posting.
 ---
 
 ### ❤️ If you like my work, consider giving a star ⭐ to my repos!
+
 
 
 
