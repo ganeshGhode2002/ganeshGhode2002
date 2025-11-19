@@ -3,7 +3,8 @@
 <h3 align="center">💻 Full-Stack Developer (MERN) | DevOps & System Design Learner | India 🇮🇳</h3>
 
 <p align="center">
-  <img height="300" src="https://raw.githubusercontent.com/gist/ganeshghode2002/1/raw/coding.gif" alt="Coding Animation"/>
+  <!-- Replace this GIF URL with your own hosted GIF if you want -->
+  <img height="240" src="https://raw.githubusercontent.com/charlesdaniels/code-images/main/coding.gif" alt="Coding Animation"/>
 </p>
 
 ---
@@ -19,14 +20,14 @@
 
 # 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/ganesh-ghode2002" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <a href="https://linkedin.com/in/ganesh-ghode2002" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/ganeshghode" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  <a href="https://leetcode.com/ganeshghode" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="36" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/ganeshgh2yk0" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/>
+  <a href="https://auth.geeksforgeeks.org/user/ganeshgh2yk0" target="_blank" rel="noopener">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="36" alt="GfG"/>
   </a>
 </p>
 
@@ -36,22 +37,22 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" alt="frontend icons" />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" alt="backend icons" />
 </p>
 
 ### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,github,git,linux,postman,aws,kubernetes,kafka" />
+  <img src="https://skillicons.dev/icons?i=docker,github,git,linux,postman,aws,kubernetes,kafka" alt="devops icons" />
 </p>
 
 ### **Other Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python" alt="other languages" />
 </p>
 
 ---
@@ -59,26 +60,30 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ganeshghode2002&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshghode2002&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ganeshghode2002&show_icons=true&count_private=true&theme=tokyonight" alt="Github Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshghode2002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Streak (working)
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ganeshghode2002&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ganeshghode2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
----
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Graph (activity)
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ganeshghode2002&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ganeshghode2002&theme=react-dark&area=true" alt="Contribution Graph" />
 </p>
 
+---
+
+# 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganeshghode2002&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+</p>
 
 ---
 
@@ -100,13 +105,3 @@ Full-stack app with authentication, recruiter dashboard, job posting.
 ---
 
 ### ❤️ If you like my work, consider giving a star ⭐ to my repos!
-
-
-
-
-
-
-
-
-
-
