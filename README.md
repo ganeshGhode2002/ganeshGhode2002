@@ -74,9 +74,9 @@
 ---
 
 # 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshghode2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=ganeshghode2002&theme=onedark&no-bg=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ganeshghode2002&theme=flat&no-bg=true&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ganeshghode2002&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" />
 
 ---
 
@@ -106,6 +106,7 @@ Full-stack app with authentication, recruiter dashboard, job posting.
 ---
 
 ### ❤️ If you like my work, consider giving a star ⭐ to my repos!
+
 
 
 
