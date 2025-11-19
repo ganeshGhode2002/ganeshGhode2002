@@ -14,7 +14,7 @@
 - 🧠 Strong in **React, Node.js, MongoDB, Next.js, WebRTC**
 - 💬 Ask me about **JavaScript, React, DevOps, APIs, System Design**
 - 📫 Reach me at: **ganeshghode2002@gmail.com**
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](YOUR_RESUME_LINK)
+- [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](YOUR_RESUME_LINK)
 
 ---
 
@@ -109,6 +109,7 @@ Full-stack app with authentication, recruiter dashboard, job posting.
 ---
 
 ### ❤️ If you like my work, consider giving a star ⭐ to my repos!
+
 
 
 
